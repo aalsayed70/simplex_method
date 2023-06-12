@@ -18,3 +18,5 @@ The project implements the Simplex method, a well-known algorithm for solving li
 # How does it work
 
 The project works by taking input from the user, including the number of variables, coefficients of the objective function, and constraints. It initializes the necessary data structures, such as vectors and matrices, to represent the tableau. The project then performs iterations of the simplex algorithm, modifying the tableau, selecting entering and leaving variables, and updating the basic and non-basic variables. This process continues until an optimal solution is reached or it determines that the problem is unbounded or infeasible. The project also checks for alternative solutions by examining the coefficients of non-basic variables in the objective function.
+
+https://github.com/aalsayed70/simplex_method/assets/89813459/83f310ee-d735-430b-8f9f-2f8f2db82e49
